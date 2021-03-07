@@ -1,5 +1,7 @@
 # 👋 Hi, my name is **Alex Lapko**
 ## I'm *Front-end developer* from Minsk.
+## Languages and Technologies
+![HTML](https://img.shields.io/badge/-JAVASCRIPT-lightgrey?style=flat-square&logo=javascript)
 <!--
 **marmon179/marmon179** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
